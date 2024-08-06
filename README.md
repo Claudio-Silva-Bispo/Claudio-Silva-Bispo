@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/_claudiobispo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/551158757740" target="_blank">
+  <a href="https://wa.me/5511958757740" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
