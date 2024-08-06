@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="left">👩‍💻  Sobre mim</h1>
+<h1 align="left">Sobre mim</h1>
 
 ###
 
