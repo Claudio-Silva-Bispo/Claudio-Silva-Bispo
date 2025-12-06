@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Pós-graduação em Gestão Financeira e Análise de Dados.<br><br>Tenho experiência no setor Bancário e de Seguros, com mais de doze anos de experiência.<br><br>Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, com ênfase em desenvolvimento Full Stack. Sou feliz com desenvolvimento Front-End e Dados, mas sempre disponível a aprender novas ferramentas.<br><br>Estou continuamente aprimorando minhas habilidades com as novas ferramentas do mercado para desenvolver aplicações web que ofereçam conforto e propósito aos clientes e usuários.</p>
+<p align="left">Pós-graduação em Gestão Financeira e Análise de Dados.<br><br>Tenho experiência no setor Bancário e de Seguros, com mais de doze anos de experiência.<br><br>Formado em Análise e Desenvolvimento de Sistemas na FIAP, com ênfase em desenvolvimento Full Stack. Sou feliz com desenvolvimento Front-End e Dados, mas sempre disponível a aprender novas ferramentas.<br><br>Estou continuamente aprimorando minhas habilidades com as novas ferramentas do mercado para desenvolver aplicações web que ofereçam conforto e propósito aos clientes e usuários.</p>
 
 ###
 
